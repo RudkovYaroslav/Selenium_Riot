@@ -11,3 +11,5 @@ ____________________
 - Парсинг сайтов, использование cookie
 
 [**Ссылка на проект в nbviewer**](https://nbviewer.org/github/RudkovYaroslav/Selenium_Riot/blob/main/Selenium_Riot.ipynb)
+
+[**Ссылка на получившийся excel - файл**](https://docs.google.com/spreadsheets/d/1W1eDwF3LQ7HjbvjOg3oVCSIhLck4JGc4SrE7HpcaX0k/edit?usp=sharing)
